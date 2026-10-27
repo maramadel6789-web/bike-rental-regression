@@ -5,6 +5,7 @@ A two-part machine learning lab that explores a daily bike-share dataset and tra
 ## Labs
 
 ### Lab 1: Linear Regression
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maramadel6789-web/bike-rental-regression/blob/main/Bike_Rental_Regression_Lab.ipynb)
 `Bike_Rental_Regression_Lab.ipynb`
 
 A complete beginner-friendly regression workflow:
